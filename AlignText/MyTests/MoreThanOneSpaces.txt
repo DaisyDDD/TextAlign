@@ -1,0 +1,2 @@
+Daisy  loves     ice cream!
+Lin doesn't.
